@@ -9,7 +9,8 @@ Run_Training.py: Main file to start the training process. It needs:
 
 **TEST**
 Sampling_descan.py: Main file to test the model. It need: 
-                1. diffusion_weights_path -> path of trained diffusion model
-                2. color_encoder_path -> path of trained color correction model
-                3. test_folder -> directory containing all the test images
+1. diffusion_weights_path -> path of trained diffusion model
+
+2. color_encoder_path -> path of trained color correction model
+3. test_folder -> directory containing all the test images
                 
